@@ -1,0 +1,4 @@
+Name,DisplayName,Type,Default,Group,Tips
+vissim_dll,File(DrivingSimulatorProxy.dll) Path,string,,,
+inpx,File(inpx) Path,string,,,
+
